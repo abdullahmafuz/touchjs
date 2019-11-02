@@ -1,6 +1,8 @@
 # touchjs
 
- <h1>Description -page 1</h1>
+<h2>A JavaScript code for add touch ,  key up and down , mouse scroll effect on ur project</h2
+ <h2>Demo <a></a></h2>
+ <h3>Description</h3>
                         <h4>Mouse function</h4>
                         <p>Scroll Down to go ... Next page </p>
                         <p>Scroll Up to go ... previous page </p>
